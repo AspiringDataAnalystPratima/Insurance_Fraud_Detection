@@ -15,5 +15,4 @@ encode the categorical features, except the target column that is to be predicte
 integrate training and test data to maintain uniformity in encoding categorical features.<br>
 <br>**Step 4**: Construct a default decision tree classifier and random forest classifier for both data sets and 
 obtain an accuracy score for the decision tree.
-<br> **Step 5**: Perform hyperparameter tuning for the decision tree classifier. The below screenshot represents the 
-specific code snippet for hyperparameter tuning for both classifiers for respective datasets.<br>
+<br> **Step 5**: Perform hyperparameter tuning for the decision tree classifier. The below screenshot represents the specific code snippet for hyperparameter tuning for both classifiers for respective datasets.<br>
